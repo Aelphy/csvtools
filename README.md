@@ -2,6 +2,8 @@
 
 CLI tools useful to work with csv files. Below is the documentation for each tool.
 
+Data for tests is [here](https://www.dropbox.com/s/7acpi71spermhy7/csvtools_data.zip?dl=0). 
+
 ### csvpp
 
 usage: `csvpp [-h] [-q] [--careful] [-s SEPARATOR] [-n LINES_NUMBER] [-f] [-o OUTPUT_FILE] [file]`
